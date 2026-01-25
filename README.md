@@ -1,4 +1,5 @@
-### Hi 👋
+<div align="center"><h1>  Hi 👋 </h1></div>
+<br>
 - Engineering Student at ENSA Agadir studying Data Science & Big Data
 - Passionate about Data Science, Machine Learning, AI, and Software Development
 - Working with Python, Web Development, and Cloud Technologies
