@@ -6,7 +6,6 @@
 - I like to share my learning journey on [LinkedIn](https://www.linkedin.com/in/mustapha-idabella)
 
 ### Skills
-<img src="https://github-readme-stats.vercel.app/api?username=idabella&show_icons=true&theme=transparent" style="float:right;">
 
 ![Python](https://img.shields.io/badge/-Python-666?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-666?&logo=javascript)
