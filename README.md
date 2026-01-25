@@ -1,56 +1,32 @@
-# 👋 Hi, I'm Mustapha IDABELLA
+### Hi 👋
+- Engineering Student at ENSA Agadir studying Data Science & Big Data
+- Passionate about Data Science, Machine Learning, AI, and Software Development
+- Working with Python, Web Development, and Cloud Technologies
+- INFP (Data-driven problem solver)
+- I like to share my learning journey on [LinkedIn](https://www.linkedin.com/in/mustapha-idabella)
 
-🚀 **Engineering Student | Data Science & AI Enthusiast | Software Developer**
+### Skills
+<img src="https://github-readme-stats.vercel.app/api?username=idabella&show_icons=true&theme=transparent" style="float:right;">
 
-- 🎯 Passionate about Data Science, Big Data, and AI Development
-- 🧠 Working with Python, Machine Learning, Web Development, and Cloud Technologies
-- 🔭 Currently studying Data Science & Big Data Engineering at ENSA Agadir
-- 📚 Always learning about AI implementation, data analysis, and modern web technologies
-
----
-
-## 🚀 Tech Stack
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="80" height="40"/> </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-666?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-666?&logo=javascript)
+![React](https://img.shields.io/badge/-React-666?&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-666?&logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-666?&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-666?&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-666?&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-666?&logo=oracle)
+![Docker](https://img.shields.io/badge/-Docker-666?&logo=docker)
+![Airflow](https://img.shields.io/badge/-Airflow-666?&logo=apacheairflow)
+![Git](https://img.shields.io/badge/-Git-666?&logo=git)
+![Azure](https://img.shields.io/badge/-Azure-666?&logo=microsoftazure)
+![NumPy](https://img.shields.io/badge/-NumPy-666?&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-666?&logo=pandas)
+![LangChain](https://img.shields.io/badge/-LangChain-666?&logo=chainlink)
 
 ---
 
-## 📫 How to reach me:
+### 📫 Connect with me
+📧 mustaphaidabella@gmail.com | 📱 +212 6 58 81 73 82 | 📍 Agadir, Morocco
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustapha-idabella)
-- 📧 Email: mustaphaidabella@gmail.com
-- 📱 Phone: +212 6 58 81 73 82
-- 🌐 Based in Agadir, Morocco
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Contributing to innovative Data Science and Software Development projects
-- 📚 Continuously expanding knowledge in AI and machine learning technologies
-- 🌟 Building impactful solutions that bridge theory and practical applications
-
----
-
-> "Passionate about turning data into insights and ideas into reality."
-> 
-> 💡 Always open to collaborate on exciting projects and learn from the community!
+> "Turning data into insights and ideas into reality" 💡
