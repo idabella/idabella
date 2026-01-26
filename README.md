@@ -4,7 +4,7 @@
 - Passionate about Data Science, Machine Learning, AI, and Software Development<br>
 - Working with Python, Web Development, and Cloud Technologies<br>
 - INFP (Data-driven problem solver)<br>
-- I like to share my learning journey on [LinkedIn](https://www.linkedin.com/in/mustapha-idabella)<br>
+<br><br>
 
 ### Skills
 
