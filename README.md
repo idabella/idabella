@@ -1,4 +1,4 @@
-<div align="center"> <h1>Hi 👋</h1> </div>
+<div align="center"> <h1>Hi there 👋</h1> </div>
 <br>
 Engineering student at ENSA Agadir | Data Science & Big Data <br><br>
 Passionate about ML, AI & scalable software systems<br><br>
