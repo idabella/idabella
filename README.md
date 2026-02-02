@@ -18,7 +18,7 @@
 <br>
 <span style="font-size:20px; color:#FF5733;"><strong>Engineering student at ENSA Agadir</strong></span> | <span style="color:#33C3FF;">Data Science & Big Data</span><br><br>
 
-<span style="color:#FF33A8;">Passionate about ML 🤖, AI 🧠 & scalable software systems ⚙️</span><br><br>
+<span style="color:#FF33A8;">Passionate about ML, AI & scalable software systems ⚙️</span><br><br>
 
 <span style="color:#33FF57;">Python • Web • Cloud</span> | <span style="color:#FFA500;">INFP</span> | <span style="color:#8E44AD;">Data-driven problem solver</span>
 
