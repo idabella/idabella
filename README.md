@@ -28,9 +28,7 @@
 ### Skills
 
 ![Python](https://img.shields.io/badge/-Python-666?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-666?&logo=javascript)
 ![React](https://img.shields.io/badge/-React-666?&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-666?&logo=tailwindcss)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-666?&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-666?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-666?&logo=mongodb)
@@ -42,6 +40,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-666?&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-666?&logo=pandas)
 ![LangChain](https://img.shields.io/badge/-LangChain-666?&logo=chainlink)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-666?&logo=tailwindcss)
 
 ---
 
