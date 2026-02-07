@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/ChaseanChen/ChaseanChen/output/ascii_art.svg" alt="Random ASCII Art" width="100%" />
 </div>
 
+
 <div align="center" style="font-family:Arial, sans-serif; line-height:1.6;">
 <br>
 <br>
