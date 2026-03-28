@@ -32,6 +32,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-666?&logo=oracle)
 ![Docker](https://img.shields.io/badge/-Docker-666?&logo=docker)
 ![Airflow](https://img.shields.io/badge/-Airflow-666?&logo=apacheairflow)
+![Spark](https://img.shields.io/badge/-Spark-666?&logo=apachespark)
 ![Git](https://img.shields.io/badge/-Git-666?&logo=git)
 ![Azure](https://img.shields.io/badge/-Azure-666?&logo=microsoftazure)
 ![NumPy](https://img.shields.io/badge/-NumPy-666?&logo=numpy)
