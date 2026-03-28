@@ -7,15 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&background=00000000&center=true&vCenter=true&width=600&lines=Strive+to+make+your+spirit+bright%2C;Be+the+star+in+your+own+night." alt="My Developer Journey" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ChaseanChen/ChaseanChen/output/ascii_art.svg" alt="Random ASCII Art" width="100%" />
-</div>
 
 
 <div align="center" style="font-family:Arial, sans-serif; line-height:1.6;">
-<br>
 <br>
 <br>
 <span style="font-size:20px; color:#FF5733;"><strong>Engineering student at ENSA Agadir</strong></span> | <span style="color:#33C3FF;">Data Science & Big Data</span><br><br>
