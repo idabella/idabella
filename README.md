@@ -23,7 +23,6 @@
 
 
 ### Skills
-
 ![Python](https://img.shields.io/badge/-Python-666?&logo=python)
 ![React](https://img.shields.io/badge/-React-666?&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-666?&logo=postgresql)
@@ -35,9 +34,14 @@
 ![Spark](https://img.shields.io/badge/-Spark-666?&logo=apachespark)
 ![Git](https://img.shields.io/badge/-Git-666?&logo=git)
 ![Azure](https://img.shields.io/badge/-Azure-666?&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-666?&logo=amazonwebservices)
+![GCP](https://img.shields.io/badge/-GCP-666?&logo=googlecloud)
+![Linux](https://img.shields.io/badge/-Linux-666?&logo=linux)
 ![NumPy](https://img.shields.io/badge/-NumPy-666?&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-666?&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-666?&logo=scikitlearn)
 ![LangChain](https://img.shields.io/badge/-LangChain-666?&logo=chainlink)
+![LLM](https://img.shields.io/badge/-LLM-666?&logo=openai)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-666?&logo=tailwindcss)
 
 ---
