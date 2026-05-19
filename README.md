@@ -46,7 +46,7 @@
 
 ---
 
-### 📫 Connect with me
-📧 mustaphaidabella@gmail.com | 📱 +212 6 58 81 73 82 | 📍 Agadir, Morocco
+###  Connect with me
+ mustaphaidabella@gmail.com | 📱 +212 6 58 81 73 82 | 📍 Agadir, Morocco
 
 > "Turning data into insights and ideas into reality" 💡
