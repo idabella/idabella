@@ -3,9 +3,6 @@
   <h1>Hellooo There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&background=00000000&center=true&vCenter=true&width=600&lines=Strive+to+make+your+spirit+bright%2C;Be+the+star+in+your+own+night." alt="My Developer Journey" />
-</div>
 
 
 
